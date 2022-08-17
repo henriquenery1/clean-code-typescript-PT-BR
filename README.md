@@ -10,7 +10,7 @@ Inspirado em [clean-code-javascript](https://github.com/ryanmcdermott/clean-code
    3. [Funções](#funções)
    4. [Objetos e Estruturas de Dados](#objects-and-data-structures)
    5. [Aulas](#aulas)
-   6. [SÓLIDO](#sólido)
+   6. [SOLID](#SOLID)
    7. [Teste](#teste)
    8. [Simultaneidade](#simultaneidade)
    9. [Tratamento de erros](#error-handling)
