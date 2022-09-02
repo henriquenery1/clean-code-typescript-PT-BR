@@ -35,7 +35,7 @@ Nosso trabalho de engenharia de software tem aproximadamente 50 anos de idade,
 e ainda estamos aprendendo muito. Quando arquitetura de software for
 algo antigo como uma arquitetura em si, talvez então teremos regras mais
 rígidas para serem seguidas. Por enquanto, deixe esses guias servirem como
-referências pelo qual podemos avaliar a qualidade do código JavaScript que
+referências pelo qual podemos avaliar a qualidade do código TypeScript que
 você e seu time produz.
 
 Mais uma coisa: Saber de tudo isso não vai te tornar um melhor desenvolvedor
